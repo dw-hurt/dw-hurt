@@ -12,15 +12,21 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Repositories | **9** |
-| Public Projects | **9** |
-| Active Projects | **6** |
+| Total Repositories | **3** |
+| Public Projects | **3** |
+| Active Projects | **3** |
 | Total Stars | **1** |
-| Total Words Written | **37,864** |
+| Total Words Written | **34,367** |
 
 ---
 
 ## Research Projects
+
+### [dw-hurt](https://github.com/dw-hurt/dw-hurt)
+
+Config files for my GitHub profile.
+- **Words:** 206
+- **Last updated:** 2025-12-12
 
 ### [phd-sacred-bonds-thesis](https://github.com/dw-hurt/phd-sacred-bonds-thesis)
 
@@ -28,24 +34,6 @@ PHD research on Jung, Quantum Physics, Dating & Mating strategies and the purpos
 - **Words:** 30,990
 - **Stars:** 1
 - **Last updated:** 2025-12-12
-
-### [quartz](https://github.com/dw-hurt/quartz)
-
-🌱 host your own second brain and digital garden for free
-- **Words:** 986
-- **Last updated:** 2025-12-10
-
-### [gatsby-theme-brain](https://github.com/dw-hurt/gatsby-theme-brain)
-
-No description
-- **Words:** 1,146
-- **Last updated:** 2025-12-10
-
-### [deploying-a-static-site-with-netlify-sample](https://github.com/dw-hurt/deploying-a-static-site-with-netlify-sample)
-
-Netlify is a static site deployment code
-- **Words:** 79
-- **Last updated:** 2025-12-10
 
 ### [pie-framework-garden](https://github.com/dw-hurt/pie-framework-garden)
 
@@ -61,15 +49,12 @@ Gitbook digital garden for sharing research and progress on developing PIE frame
 
 - **[phd-sacred-bonds-thesis](https://github.com/dw-hurt/phd-sacred-bonds-thesis)**: 30,990 words
 - **[pie-framework-garden](https://github.com/dw-hurt/pie-framework-garden)**: 3,171 words
-- **[gatsby-theme-brain](https://github.com/dw-hurt/gatsby-theme-brain)**: 1,146 words
 
 ---
 
 ## Technology Stack
 
-- **SCSS** - 2 projects
 - **Python** - 1 project
-- **CSS** - 1 project
 - **PowerShell** - 1 project
 
 ---
@@ -97,4 +82,4 @@ Gitbook digital garden for sharing research and progress on developing PIE frame
 ---
 
 *This README is automatically updated with the latest stats*
-*Last auto-update: 2025-12-12 16:25:36*
+*Last auto-update: 2025-12-12 16:54:45*
