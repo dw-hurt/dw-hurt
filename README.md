@@ -5,6 +5,9 @@
 > Bridging ancient wisdom and modern science through rigorous philosophical research
 
 ---
+$env:GITHUB_TOKEN = "your_token"
+PowerShell -ExecutionPolicy Bypass -File Update_GitHub_Profile_Deep_Scan.ps1
+---
 
 ## GitHub Portfolio Stats
 
