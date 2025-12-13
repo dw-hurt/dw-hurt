@@ -5,9 +5,6 @@
 > Bridging ancient wisdom and modern science through rigorous philosophical research
 
 ---
-$env:GITHUB_TOKEN = "your_token"
-PowerShell -ExecutionPolicy Bypass -File Update_GitHub_Profile_Deep_Scan.ps1
----
 
 ## GitHub Portfolio Stats
 
@@ -23,8 +20,8 @@ PowerShell -ExecutionPolicy Bypass -File Update_GitHub_Profile_Deep_Scan.ps1
 | Active Projects | **14** |
 | Total Stars | **3** |
 | Total Forks | **0** |
-| Total Files Analyzed | **521** |
-| Total Words Written | **623,220** |
+| Total Files Analyzed | **526** |
+| Total Words Written | **637,270** |
 
 ---
 
@@ -34,7 +31,7 @@ PowerShell -ExecutionPolicy Bypass -File Update_GitHub_Profile_Deep_Scan.ps1
 
 PHD research on Jung, Quantum Physics, Dating & Mating strategies and the purpose of life as expressed through reproduction.  Doctoral dissertation on transpersonal dimensions in human pair bonding
 
-- **Content:** 250,655 words in 227 documents
+- **Content:** 264,361 words in 232 documents
 - **Stars:** 1
 - **Last updated:** 2025-12-12
 
@@ -116,6 +113,13 @@ the story that trigger the PME concept
 - **Content:** 3,752 words in 3 documents
 - **Last updated:** 2025-12-03
 
+### [dw-hurt](https://github.com/dw-hurt/dw-hurt)
+
+Config files for my GitHub profile.
+
+- **Content:** 550 words in 1 documents
+- **Last updated:** 2025-12-12
+
 ### [necron-s-digital-garden](https://github.com/dw-hurt/necron-s-digital-garden)
 
 No description
@@ -123,20 +127,13 @@ No description
 - **Content:** 492 words in 1 documents
 - **Last updated:** 2025-12-10
 
-### [dw-hurt](https://github.com/dw-hurt/dw-hurt)
-
-Config files for my GitHub profile.
-
-- **Content:** 206 words in 1 documents
-- **Last updated:** 2025-12-12
-
 ---
 
 ## Research Highlights
 
 ### Major Writing Projects
 
-- **[phd-sacred-bonds-thesis](https://github.com/dw-hurt/phd-sacred-bonds-thesis)**: 250,655 words [PUBLICATION LENGTH]
+- **[phd-sacred-bonds-thesis](https://github.com/dw-hurt/phd-sacred-bonds-thesis)**: 264,361 words [PUBLICATION LENGTH]
 - **[pie-framework-garden](https://github.com/dw-hurt/pie-framework-garden)**: 93,396 words [PUBLICATION LENGTH]
 - **[Evolutionary-Pragmatist-Ethics](https://github.com/dw-hurt/Evolutionary-Pragmatist-Ethics)**: 77,231 words [PUBLICATION LENGTH]
 - **[Pragmatic-Masculine-Ethics_foundational](https://github.com/dw-hurt/Pragmatic-Masculine-Ethics_foundational)**: 62,593 words [PUBLICATION LENGTH]
@@ -162,8 +159,8 @@ Config files for my GitHub profile.
 ## All Repositories (15)
 
 - **[divorcegame](https://github.com/dw-hurt/divorcegame)** [PRIVATE] - 171 words
-- **[dw-hurt](https://github.com/dw-hurt/dw-hurt)** - 206 words
-- **[phd-sacred-bonds-thesis](https://github.com/dw-hurt/phd-sacred-bonds-thesis)** - 250,655 words
+- **[phd-sacred-bonds-thesis](https://github.com/dw-hurt/phd-sacred-bonds-thesis)** - 264,361 words
+- **[dw-hurt](https://github.com/dw-hurt/dw-hurt)** - 550 words
 - **[Evolutionary-Pragmatist-Ethics](https://github.com/dw-hurt/Evolutionary-Pragmatist-Ethics)** [PRIVATE] - 77,231 words
 - **[second-brain](https://github.com/dw-hurt/second-brain)** [PRIVATE] - 15,122 words
 - **[Pragmatic-Masculine-Ethics_foundational](https://github.com/dw-hurt/Pragmatic-Masculine-Ethics_foundational)** [PRIVATE] - 62,593 words
@@ -202,5 +199,5 @@ Config files for my GitHub profile.
 ---
 
 *This README is automatically updated with deep scan of all repositories*
-*Last auto-update: 2025-12-12 17:00:42*
-*Scan depth: 2 directory levels | Files analyzed: 521*
+*Last auto-update: 2025-12-12 19:44:08*
+*Scan depth: 2 directory levels | Files analyzed: 526*
