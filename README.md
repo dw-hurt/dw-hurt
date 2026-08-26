@@ -1,9 +1,10 @@
 ﻿# Hi, I'm David Hurt
 
-**Business Architect | Philosopher | Researcher | Academic Publisher**
+**Business Engineer | Philosopher | Researcher | Academic**
 
 > Bridging ancient wisdom and modern science through rigorous philosophical research
 > Pioneering transparent human-AI collaboration in academic scholarship
+> Curious
 
 ---
 
