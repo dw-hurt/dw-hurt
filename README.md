@@ -7,7 +7,7 @@
 
 ---
 
-## Featured Project: Techne+Logos Journal
+## Aspirational Project: Techne+Logos Journal
 
 ### [Human-AI-Philosophical-Journal](https://github.com/dw-hurt/Human-AI-Philosophical-Journal)
 
