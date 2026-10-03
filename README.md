@@ -2,80 +2,14 @@
 
 **Business Engineer | Philosopher | Researcher | Academic**
 
-> Bridging ancient wisdom and modern science through rigorous philosophical research
-> Pioneering transparent human-AI collaboration in academic scholarship
+> Business analysis, modern science a somewhat rigorous philosophical research framework
 > Curious
 
 ---
 
-## Aspirational Project: Techne+Logos Journal
-
-### [Human-AI-Philosophical-Journal](https://github.com/dw-hurt/Human-AI-Philosophical-Journal)
-
-**World's First AI-Assisted Peer Review System with Full Transparency**
-
-A revolutionary academic journal system that pioneers transparent human-AI collaboration in scholarly publishing.
-
-#### Project Highlights
-
-- **System Scope:** 201,123 words across 0 comprehensive guides
-- **Implementation:** Production-ready system (6-8 hours basic setup)
-- **Cost Model:** $133/month operational costs, break-even Q2 2026
-- **Launch Target:** Q1 2026 soft launch
-- **Innovation:** First journal with integrated CRM, AI pre-review, and systematic reviewer compensation
-
-#### Key Components
-
-- **AI-Powered Pre-Review:** 5-stage automated analysis (Google Gemini API)
-- **Human Expert Review:** Structured workflow for 2-3 peer reviewers per paper
-- **CRM Integration:** Insightly-based reviewer management with skill-matching
-- **Editor Dashboard:** Real-time tracking via Google Looker Studio
-- **Financial Model:** Complete ROI analysis with 25% profit margin target
-- **Documentation:** 14 comprehensive implementation guides
-
-#### Technical Stack
-
-Google Workspace â€¢ Gemini AI â€¢ Insightly CRM â€¢ Looker Studio â€¢ Zapier â€¢ Google Sites
-
-#### Philosophical Foundation
-
-Based on the Heisenberg-GÃ¶del-Hayek framework, emphasizing:
-- **Impossibility of Closure:** No system can achieve complete objectivity
-- **Human^AI Augmentation:** AI amplifies human expertise, doesn't replace it
-- **Transparency Imperative:** Full disclosure of human-AI collaboration
-
-**Last Updated:** 2025-12-20
-
----
-
-## GitHub Portfolio Stats
-
-**Last Updated:** December 20, 2025
-**Deep Scan:** All repositories and subdirectories analyzed
-
-| Metric | Value |
-|--------|-------|
-| Total Repositories | **16** |
-| Public Repositories | **4** |
-| Private Repositories | **12** |
-| Forked Repositories | **0** |
-| Active Projects | **15** |
-| Total Stars | **3** |
-| Total Forks | **0** |
-| Total Files Analyzed | **526** |
-| Total Words Written | **838,393** |
-
----
+--
 
 ## Active Research Projects
-
-### [Human-AI-Philosophical-Journal](https://github.com/dw-hurt/Human-AI-Philosophical-Journal)
-
-World's first AI-assisted peer review journal system with full transparency and CRM integration
-
-- **Content:** 201,123 words in 0 documents
-- **Status:** Production Ready
-- **Last updated:** 2025-12-20
 
 ### [phd-sacred-bonds-thesis](https://github.com/dw-hurt/phd-sacred-bonds-thesis)
 
@@ -92,19 +26,6 @@ Gitbook digital garden for sharing research and progress on developing PIE frame
 - **Content:** 93,396 words in 38 documents
 - **Last updated:** 2025-12-08
 
-### [Evolutionary-Pragmatist-Ethics](https://github.com/dw-hurt/Evolutionary-Pragmatist-Ethics)
-
-project to write and publish pragmatic ethics
-
-- **Content:** 77,231 words in 21 documents
-- **Last updated:** 2025-12-11
-
-### [Pragmatic-Masculine-Ethics_foundational](https://github.com/dw-hurt/Pragmatic-Masculine-Ethics_foundational)
-
-project to write foundational framework for EPME (evolutionary pragmatic masculine ethics)
-
-- **Content:** 62,593 words in 12 documents
-- **Last updated:** 2025-12-10
 
 ### [novelization-of-sacred-bonds](https://github.com/dw-hurt/novelization-of-sacred-bonds)
 
@@ -113,47 +34,11 @@ Literary SF novel based on Sacred Bonds research
 - **Content:** 56,285 words in 27 documents
 - **Last updated:** 2025-11-30
 
-### [pie-framework-private](https://github.com/dw-hurt/pie-framework-private)
-
-research based PIE repository to transfer ethical work between private & public
-
-- **Content:** 24,020 words in 9 documents
-- **Last updated:** 2025-12-08
-
 ### [radio-drama-series](https://github.com/dw-hurt/radio-drama-series)
 
 200 AI-generated radio drama prompts in CBS Mystery Theater style radio dramas for AI generation
 
 - **Content:** 16,474 words in 3 documents
-- **Last updated:** 2025-12-10
-
-### [second-brain](https://github.com/dw-hurt/second-brain)
-
-Personal knowledge management system using PARA + Zettelkasten
-
-- **Content:** 15,122 words in 27 documents
-- **Stars:** 1
-- **Last updated:** 2025-12-11
-
-### [manosphere-postdoc-research](https://github.com/dw-hurt/manosphere-postdoc-research)
-
-review of dating trends over that last 20 years and examination if successful
-
-- **Content:** 9,457 words in 14 documents
-- **Last updated:** 2025-11-28
-
-### [pie-novelization-novel-2](https://github.com/dw-hurt/pie-novelization-novel-2)
-
-The Psychoid Imperative (Novel II) - AI ethics, Jungian psychology, and emergent consciousness
-
-- **Content:** 6,721 words in 15 documents
-- **Last updated:** 2025-12-02
-
-### [Marcus_Elena-a-short-philosophy-story](https://github.com/dw-hurt/Marcus_Elena-a-short-philosophy-story)
-
-the story that trigger the PME concept
-
-- **Content:** 6,645 words in 2 documents
 - **Last updated:** 2025-12-10
 
 ### [psychoid-ai-ethics](https://github.com/dw-hurt/psychoid-ai-ethics)
@@ -170,14 +55,6 @@ Config files for my GitHub profile.
 - **Content:** 550 words in 1 documents
 - **Last updated:** 2025-12-12
 
-### [necron-s-digital-garden](https://github.com/dw-hurt/necron-s-digital-garden)
-
-No description
-
-- **Content:** 492 words in 1 documents
-- **Last updated:** 2025-12-10
-
----
 
 ## Research Highlights
 
@@ -233,14 +110,13 @@ No description
 
 - **Email:** hurt.david@gmail.com
 - **GitHub:** [@dw-hurt](https://github.com/dw-hurt)
-- **Journal:** [technelogos.org](https://technelogos.org) (launching Q1 2026)
+
 
 ---
 
 ## Current Focus
 
-- **Techne+Logos Journal:** Launching world's first transparent AI-assisted peer review system
-- **Doctoral Dissertation:** Transpersonal psychology and sacred bonds research
+- **Masgters Dissertation:** Transpersonal psychology and sacred bonds research
 - **Evolutionary Ethics:** Pragmatist framework for modern moral philosophy
 - **Digital Gardens:** Knowledge management and open research systems
 - **Human-AI Collaboration:** Pioneering transparent academic publishing methods
